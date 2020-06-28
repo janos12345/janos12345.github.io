@@ -10,3 +10,5 @@ Dr. Sheldon Lee Cooper is the main character of the TV show 'The Big Bang Theory
 * In a relationship with Amy Farrah Fowler
 
 > I'm not crazy. My mother had me tested.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Paley_Center_for_Media_-_Big_Bang_Theory_-_The_Cruciferous_Vegetable_Amplification_%286926336418%29.jpg"/>
